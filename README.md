@@ -1,4 +1,5 @@
 # Giveaways Bot
+[![Run on Repl.it](https://repl.it/badge/github/Bartholomeouw/giveaways-bot)](https://repl.it/github/Bartholomeouw/giveaways-bot)
 
 🎁Giveways Bot using the [discord-giveaways](https://npmjs.com/discord-giveaways) package!
 
@@ -35,4 +36,3 @@ npm install
 ```sh
 node index.js
 ```
-[![Run on Repl.it](https://repl.it/badge/github/Bartholomeouw/giveaways-bot)](https://repl.it/github/Bartholomeouw/giveaways-bot)
